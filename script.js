@@ -1,5 +1,5 @@
 const gistId = 'c049b8379985c4531c9c6d799249a21b';
-const accessToken = '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'; // Use a personal access token with the "gist" scope
+const accessToken = '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'; // Use a personal access token with the "gist" scope
 
 // JavaScript code to manage the Gist JSON list
 let charactersArray = [];
